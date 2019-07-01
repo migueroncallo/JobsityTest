@@ -1,0 +1,6 @@
+framework module PagerMenu {
+  umbrella header "PagerMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
